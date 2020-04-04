@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-hooks-app/static/css/main.52c41aa6.chunk.css",
+    "main.js": "/react-hooks-app/static/js/main.37bc00e2.chunk.js",
+    "main.js.map": "/react-hooks-app/static/js/main.37bc00e2.chunk.js.map",
+    "runtime-main.js": "/react-hooks-app/static/js/runtime-main.1dce828c.js",
+    "runtime-main.js.map": "/react-hooks-app/static/js/runtime-main.1dce828c.js.map",
+    "static/js/2.4ceb94f6.chunk.js": "/react-hooks-app/static/js/2.4ceb94f6.chunk.js",
+    "static/js/2.4ceb94f6.chunk.js.map": "/react-hooks-app/static/js/2.4ceb94f6.chunk.js.map",
+    "index.html": "/react-hooks-app/index.html",
+    "precache-manifest.4011abf3166a9cd7c6721faa5bf0e08c.js": "/react-hooks-app/precache-manifest.4011abf3166a9cd7c6721faa5bf0e08c.js",
+    "service-worker.js": "/react-hooks-app/service-worker.js",
+    "static/css/main.52c41aa6.chunk.css.map": "/react-hooks-app/static/css/main.52c41aa6.chunk.css.map",
+    "static/js/2.4ceb94f6.chunk.js.LICENSE.txt": "/react-hooks-app/static/js/2.4ceb94f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dce828c.js",
+    "static/js/2.4ceb94f6.chunk.js",
+    "static/css/main.52c41aa6.chunk.css",
+    "static/js/main.37bc00e2.chunk.js"
+  ]
+}
